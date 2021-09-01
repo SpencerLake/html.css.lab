@@ -1,0 +1,46 @@
+header {
+    background-color: rgb(201, 201, 201);
+    height: 150px;
+    display: flex;
+    align-items: center;
+}
+
+.hdrbox {
+    background-color: rgb(40, 132, 252);
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+
+.box1 {
+    background-color: rgb(233, 233, 233);
+    height:25vh;
+    length: 100vw;
+    text-align: center;
+    padding: 60px 70px ;
+}
+
+.box2 {
+    height: 15vh;
+    background-color: rgb(40, 132, 252);
+}
+
+.box3 {
+    height: 15vh;
+    background-color: rgb(1, 255, 242);
+}
+
+.box4 {
+    height: 15vh;
+    background-color: rgb(145, 192, 92);
+}
+
+.box5 {
+    height: 15vh;
+    background-color: yellow;
+}
+
+p {
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
